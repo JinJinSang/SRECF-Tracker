@@ -19,10 +19,6 @@ Changhong Fu
 
 Email: [changhong.fu@tongji.edu.cn](mailto:changhong.fu@tongji.edu.cn)
 
-### Jin Jin
-
-Email: 
-
 # Demonstration running instructions
 
 This code is compatible with UAVDT, UAV123@10fps and DTB70 benchmark. Therefore, if you want to run it in benchmark, just put SRECF folder in trackers, and config sequences and trackers according to instructions from aforementioned benchmarks. 
